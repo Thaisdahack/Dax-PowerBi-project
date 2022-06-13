@@ -1,6 +1,8 @@
 # Dax PowerBi (Majestic Project)
 
 ### Using DAX measures on Power BI to analysis of sales and financial health of a multinational focused on the sale of school supplies.
+
+### https://app.powerbi.com/links/HI-9C9GXPb?ctid=67940196-73ce-4f36-bd61-4704b0643023&pbi_source=linkShare&bookmarkGuid=e4303454-6f98-464f-bd5e-c20572865a39
  
 ## General Analysis
 
