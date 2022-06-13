@@ -6,7 +6,8 @@
 
 The following dashboard provides an overview of the company with data on total gross sales, average ticket, net revenue, sales quantity, best-selling product category, sales by country and sales by year
  
-<img src="https://user-images.githubusercontent.com/101371267/172511646-9afa10c1-849c-4619-9df4-78d740fe4820.png" width="420">
+![an geral](https://user-images.githubusercontent.com/101371267/173370399-85aca644-21a7-45ba-854e-8005f3d497b2.png)
+
 
 ## Continental Analysis
 
